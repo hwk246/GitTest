@@ -3,7 +3,7 @@
 }
 
 body{
-    background-image: linear-gradient(160deg, red, green, yellow);
+    background-image: linear-gradient(180deg, red, orange, yellow);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -17,4 +17,5 @@ main{
 
 footer{
     padding-bottom: 2em;
+    background-color: lightskyblue;
 }
